@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Programming enthusiast interested in the intersection of chemistry, clean energy, data science, and computer science.
+I am a programming enthusiast interested in the intersection of chemistry, clean energy, data science, and computer science. ✨
 
 <!--
 **dzh-ad/dzh-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
